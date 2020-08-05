@@ -1,0 +1,5 @@
+C:\Users\naresh\source\repos\ECommerceApp\ModbusTestApp\bin\Debug\ModbusTestApp.exe.config
+C:\Users\naresh\source\repos\ECommerceApp\ModbusTestApp\bin\Debug\ModbusTestApp.exe
+C:\Users\naresh\source\repos\ECommerceApp\ModbusTestApp\bin\Debug\ModbusTestApp.pdb
+C:\Users\naresh\source\repos\ECommerceApp\ModbusTestApp\obj\Debug\ModbusTestApp.exe
+C:\Users\naresh\source\repos\ECommerceApp\ModbusTestApp\obj\Debug\ModbusTestApp.pdb
